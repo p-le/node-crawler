@@ -1,0 +1,21 @@
+{
+  "name": "novel-crawler",
+  "version": "0.1.0",
+  "main": "index.js",
+  "description": "Light Novel Crawler",
+  "author": {
+    "name": "p-le",
+    "email": "phu.le.dev@gmail.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.16.1",
+    "body-parser": "^1.17.1",
+    "cheerio": "^0.22.0",
+    "cors": "^2.8.3",
+    "express": "^4.15.2",
+    "mongoose": "^4.9.8",
+    "node-schedule": "^1.2.1",
+    "winston": "^2.3.1"
+  }
+}
